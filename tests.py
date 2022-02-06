@@ -41,3 +41,5 @@ class Data(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)
+else:
+    unittest.main(verbosity=0)
